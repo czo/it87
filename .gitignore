@@ -1,0 +1,6 @@
+.it87*.cmd
+it87.ko
+it87.mod*
+it87.o
+Module.symvers
+modules.order
